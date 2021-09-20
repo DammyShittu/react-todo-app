@@ -1,8 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Todo Aopp With React
-> Todo app helps you stay organized in your daily tasks as you can `add`, `remove` and also mark task as `completed`. This app was built according to the steps provided in the *React Tutorial From Scratch: A Step-by-Step Guide (2021)*
+> Todo app is a Single-Page application helps you stay organized in your daily tasks as you can `add`, `remove`, `edit`, and also mark task as `completed`. Data in this app has been preserved using `localStorage`. This app was built according to the steps provided in the [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
 
+# Live Link
+
+Kindly click to view the [App](https://dammyshittu.github.io/react-todo-app/)
+
+# Screenshot
+
+![](./src/images/screenshot.png)
 
 # Getting Started
 
@@ -43,6 +50,9 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/DammyShittu/react-todo-app/issues).
 
+# Acknowledgement
+
+Big thanks to Ibas Majid for making this [tutorial](https://ibaslogic.com/react-tutorial-for-beginners/) available.
 # Show your support
 
 Give a ⭐️ if you like this project!
